@@ -40,3 +40,6 @@ nav ul li a{
 nav ul li:hover {
     background: gray;
 }
+p{
+    padding-top: 100px;
+}
